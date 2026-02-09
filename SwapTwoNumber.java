@@ -10,7 +10,7 @@ class SwapTwoNumber{
         System.out.println("Before Swapping a ="+a);
         System.out.println("Before Swapping b ="+b);
         c=a;
-        a=b;
+        a=b; 
         b=c;
 
         System.out.println("after Swapping a ="+a);
